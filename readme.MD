@@ -6,6 +6,8 @@
 
 ## Principais adições do projeto:
 
+### Reestruturação de pastas para utilização de sass
+
 ### Hover Overlay nos componentes de filmes
 
 ### Script js para monitorar o elemento no clique do usuário e exibir dinamicamente as informações do filme
